@@ -1,3 +1,4 @@
 .vscode
-/Single_link_list/Single_link_list.exe
-/Single_link_list/.vscode
+Link_list/Single_link_list/Single_link_list.exe
+Link_list/Single_link_list/.vscode
+.gitignore
